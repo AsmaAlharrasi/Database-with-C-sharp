@@ -20,8 +20,7 @@ namespace EmployeeDatabase.Models
       
         [Range(1,5)]
         public int Floor { get; set; }
-
-       
+        public List<Employee> Employees { get; set; } = new List<Employee>();
 
     }
     

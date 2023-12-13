@@ -15,11 +15,14 @@ namespace EmployeeDatabase.MyDbContext
     internal class ApplicationDbContext : DbContext 
     {
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-        {//Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=master;Integrated Security=True;
+        {
             base.OnConfiguring(optionsBuilder);
             optionsBuilder.UseSqlServer("Data Source = DESKTOP-H7LDUQG\\MSSQLSERVER01; Initial Catalog = Olfah ; Integrated Security = True; TrustServerCertificate=True");
         }
         public DbSet<Employee> Employees { get; set; }
         public DbSet<Department> Departments { get; set; }
+        public DbSet<Project> Projects { get; set; }
+
+
     }
 }

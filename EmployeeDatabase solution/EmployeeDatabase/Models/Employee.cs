@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -19,5 +20,15 @@ namespace EmployeeDatabase.Models
 
         [DataType(DataType.Currency)]
         public  decimal Salary { get; set; }
+
+        [ForeignKey("Departments")]
+        public int? deptID { get; set; }
+        public Department? Departments { get; set; }
+
+        [ForeignKey("Projects")]
+        public int? ProjID { get; set; }
+        public List<Project> Projects { get; set; } = new List<Project>();
+
+
     }
 }

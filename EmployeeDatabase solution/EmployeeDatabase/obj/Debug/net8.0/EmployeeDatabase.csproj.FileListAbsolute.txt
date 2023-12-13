@@ -128,3 +128,4 @@ C:\Users\HP\Desktop\Code Academy\coding\ORM\EmployeeDatabase solution\EmployeeDa
 C:\Users\HP\Desktop\Code Academy\coding\ORM\EmployeeDatabase solution\EmployeeDatabase\obj\Debug\net8.0\EmployeeDatabase.pdb
 C:\Users\HP\Desktop\Code Academy\coding\ORM\EmployeeDatabase solution\EmployeeDatabase\obj\Debug\net8.0\EmployeeDatabase.genruntimeconfig.cache
 C:\Users\HP\Desktop\Code Academy\coding\ORM\EmployeeDatabase solution\EmployeeDatabase\obj\Debug\net8.0\ref\EmployeeDatabase.dll
+C:\Users\HP\Desktop\Code Academy\coding\ORM\EmployeeDatabase solution\EmployeeDatabase\obj\Debug\net8.0\EmployeeDatabase.sourcelink.json
