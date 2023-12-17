@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\Desktop\\Code Academy\\coding\\ORM\\SchoolDatabase solution\\SchoolDatabase\\SchoolDatabase.csproj": {}
+    "C:\\Users\\HP\\Desktop\\Code Academy\\BackEnd\\coding\\ORM\\SchoolDatabase solution\\SchoolDatabase\\SchoolDatabase.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\Desktop\\Code Academy\\coding\\ORM\\SchoolDatabase solution\\SchoolDatabase\\SchoolDatabase.csproj": {
+    "C:\\Users\\HP\\Desktop\\Code Academy\\BackEnd\\coding\\ORM\\SchoolDatabase solution\\SchoolDatabase\\SchoolDatabase.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\Desktop\\Code Academy\\coding\\ORM\\SchoolDatabase solution\\SchoolDatabase\\SchoolDatabase.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\Desktop\\Code Academy\\BackEnd\\coding\\ORM\\SchoolDatabase solution\\SchoolDatabase\\SchoolDatabase.csproj",
         "projectName": "SchoolDatabase",
-        "projectPath": "C:\\Users\\HP\\Desktop\\Code Academy\\coding\\ORM\\SchoolDatabase solution\\SchoolDatabase\\SchoolDatabase.csproj",
+        "projectPath": "C:\\Users\\HP\\Desktop\\Code Academy\\BackEnd\\coding\\ORM\\SchoolDatabase solution\\SchoolDatabase\\SchoolDatabase.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\Desktop\\Code Academy\\coding\\ORM\\SchoolDatabase solution\\SchoolDatabase\\obj\\",
+        "outputPath": "C:\\Users\\HP\\Desktop\\Code Academy\\BackEnd\\coding\\ORM\\SchoolDatabase solution\\SchoolDatabase\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

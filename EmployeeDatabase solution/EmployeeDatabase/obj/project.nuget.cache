@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "N5asu9T4eovnRPatSV9xUc/Ue7XCLGJWhXibFI8DK4w5KF4Woalju3BRyUy2Sie2eTiBxXH2abZIzTKsJkA++Q==",
+  "dgSpecHash": "UPgFoHQQU9PNyJTELp3HAib13nZ3mzSf70nYZQAyWWOhwhWU3vwSUAji6846xxz0hmqZfwT01EinqMBIC1cBRQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\HP\\Desktop\\Code Academy\\coding\\ORM\\EmployeeDatabase solution\\EmployeeDatabase\\EmployeeDatabase.csproj",
+  "projectFilePath": "C:\\Users\\HP\\Desktop\\Code Academy\\BackEnd\\coding\\ORM\\EmployeeDatabase solution\\EmployeeDatabase\\EmployeeDatabase.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
